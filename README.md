@@ -242,22 +242,15 @@ portfolio/
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/lightify97/portfolio/issues).
-
 ## 👨‍💻 Author
 
 **Muhammad Dafa Ardiansyah**
 
-- Portfolio: [https://mramazan.dev](https://mramazan.dev)
-- GitHub: [@lightify97](https://github.com/lightify97)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/m-ramazan)
+- Portfolio: [https://glanze.space](https://glanze.space)
+- GitHub: [@mdafaardiansyah](https://github.com/mdafaardiansyah)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/mdafaardiansyah)
 - Email: ardidafa21@gmail.com
+- Inspired by M. Ramazan's Portfolio
 
 ## 🙏 Acknowledgments
 
